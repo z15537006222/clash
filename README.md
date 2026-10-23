@@ -17,6 +17,8 @@ Raw 地址：
 
 `009977.xyz`、`4jianjian.shop` 的根域名及所有子域名优先直连。
 
+指定的 Google API 域名 `cloudcode-pa.googleapis.com`、`daily-cloudcode-pa.googleapis.com`、`oauth2.googleapis.com`、`www.googleapis.com`、`cloudresourcemanager.googleapis.com`、`serviceusage.googleapis.com` 均进入 `♻️ AI`。
+
 中国 AI 优先直连，包括 DeepSeek、通义/Qwen、豆包、Kimi、智谱、MiniMax、Trae、Coze、Qoder 等；中国厂商国际版中被海外 AI 列表收录的域名也优先排除。
 
 海外 AI 使用 MetaCubeX 的 `category-ai-!cn` 汇总规则，中国 AI 使用 `category-ai-cn`、字节 AI 列表和显式补充规则；YouTube 使用 blackmatrix7 的 `YouTube`、`YouTubeMusic` 规则。均引用 subconverter 可读取的文本规则格式。
