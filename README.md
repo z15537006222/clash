@@ -15,6 +15,8 @@ Raw 地址：
 - `🎯 国内直连`：中国域名、IP、中国 AI 和原有直连例外，使用 `DIRECT`。
 - `🐟 漏网之鱼`：未命中其他规则的流量，保留原有出口选项。
 
+`009977.xyz`、`4jianjian.shop` 的根域名及所有子域名优先直连。
+
 中国 AI 优先直连，包括 DeepSeek、通义/Qwen、豆包、Kimi、智谱、MiniMax、Trae、Coze、Qoder 等；中国厂商国际版中被海外 AI 列表收录的域名也优先排除。
 
 海外 AI 使用 MetaCubeX 的 `category-ai-!cn` 汇总规则，中国 AI 使用 `category-ai-cn`、字节 AI 列表和显式补充规则；YouTube 使用 blackmatrix7 的 `YouTube`、`YouTubeMusic` 规则。均引用 subconverter 可读取的文本规则格式。
