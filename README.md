@@ -9,7 +9,7 @@ Raw 地址：
 分流组：
 
 - `🚀 节点选择`：普通海外流量，可以选择全部订阅节点。
-- `♻️ AI`：海外 AI，包括 OpenAI/ChatGPT/Codex、Claude、Gemini、NotebookLM、Copilot、Cursor、Grok、Perplexity、Antigravity 等。节点选项为 `软银-Jp`、`软银-Jp to Usa`、`圣何塞-shs`、`圣何塞-shs-usa`。
+- `♻️ AI`：海外 AI，包括 OpenAI/ChatGPT/Codex、Claude、Gemini、NotebookLM、Copilot、Cursor、Grok、Perplexity、Antigravity 等。可以选择全部订阅节点，独立设置出口。
 - `YouTuBe`：YouTube 网页、视频、图片、API、YouTube Music，以及规则源维护的 IPv4/IPv6 网段。可以选择全部订阅节点，独立设置出口。
 - `🎵 TikTok`：TikTok 及现有相关服务，保留原节点筛选规则。
 - `🎯 国内直连`：中国域名、IP、中国 AI 和原有直连例外，使用 `DIRECT`。
