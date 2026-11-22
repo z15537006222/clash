@@ -15,7 +15,7 @@ Raw 地址：
 - `🎯 国内直连`：中国域名、IP、中国 AI 和原有直连例外，使用 `DIRECT`。
 - `🐟 漏网之鱼`：未命中其他规则的流量，可以选择全部订阅节点，也可跟随 `🚀 节点选择` 或使用 `🎯 国内直连`。
 
-`009977.xyz`、`4jianjian.shop` 的根域名及所有子域名优先直连。
+`009977.xyz`、`4jianjian.shop` 的根域名及所有子域名优先直连；`4jianjian.com` 的根域名及所有子域名优先进入 `♻️ AI`。
 
 指定的 Google API 域名 `cloudcode-pa.googleapis.com`、`daily-cloudcode-pa.googleapis.com`、`oauth2.googleapis.com`、`www.googleapis.com`、`cloudresourcemanager.googleapis.com`、`serviceusage.googleapis.com` 均进入 `♻️ AI`。
 
